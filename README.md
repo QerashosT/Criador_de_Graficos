@@ -16,7 +16,7 @@ estará aparecendo logo abaixo o grafico escolhido com os dados passados, passan
 ![](ft5.png)
 Também pode clicar nos rotulos para ocultar 1 ou mais dados dos graficos.
 
-![](ft6.png)
+![](ft6-1.png)
 também coloquei um exemplo de produtos que poderiam ser os vendidos por um vendedor especifico.
 
 ![](ft7.png)
